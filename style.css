@@ -1,0 +1,48 @@
+* {
+    font-family: "Google Sans Flex", sans-serif;
+}
+.half-width {
+    width: 50%;
+    float: left;
+}
+.half-width img {
+    width: 100%;
+}
+.text-highlighter {
+    color: orangered;
+
+}
+
+.button-style a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.button-style {
+background-image: linear-gradient(orangered, rgb(255, 238, 0));
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 15px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.text-highlighter1 {
+    color: rgb(0, 115, 255);}
+
+.button-style1 a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.button-style1{
+background-image: linear-gradient(rgb(33, 24, 154), rgb(16, 136, 206));
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 15px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
